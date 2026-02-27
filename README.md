@@ -2,6 +2,8 @@
 
 ### S3 + CloudFront + Secure Caching Architecture
 
+<img width="1167" height="440" alt="Screenshot 2026-02-25 at 21 24 08" src="https://github.com/user-attachments/assets/5a50b876-6913-4d0a-a385-b5daefd1cefd" />
+
 This repository contains the Terraform configuration used to provision and deploy my personal portfolio on AWS using a production-style architecture.
 
 Rather than simply hosting static files, this project was designed to simulate real-world infrastructure decisions — focusing on security, performance, reproducibility, and global delivery.
